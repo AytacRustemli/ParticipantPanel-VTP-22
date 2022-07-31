@@ -1,0 +1,12 @@
+D:\K205\Back\ParticipantPanel\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\K205\Back\ParticipantPanel\Entities\bin\Debug\net6.0\Entities.dll
+D:\K205\Back\ParticipantPanel\Entities\bin\Debug\net6.0\ref\Entities.dll
+D:\K205\Back\ParticipantPanel\Entities\bin\Debug\net6.0\Entities.pdb
+D:\K205\Back\ParticipantPanel\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\K205\Back\ParticipantPanel\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\K205\Back\ParticipantPanel\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\K205\Back\ParticipantPanel\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\K205\Back\ParticipantPanel\Entities\obj\Debug\net6.0\Entities.dll
+D:\K205\Back\ParticipantPanel\Entities\obj\Debug\net6.0\ref\Entities.dll
+D:\K205\Back\ParticipantPanel\Entities\obj\Debug\net6.0\Entities.pdb
+D:\K205\Back\ParticipantPanel\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache

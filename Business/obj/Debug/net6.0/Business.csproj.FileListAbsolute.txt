@@ -1,0 +1,17 @@
+D:\K205\Back\ParticipantPanel\Business\bin\Debug\net6.0\Business.deps.json
+D:\K205\Back\ParticipantPanel\Business\bin\Debug\net6.0\Business.dll
+D:\K205\Back\ParticipantPanel\Business\bin\Debug\net6.0\ref\Business.dll
+D:\K205\Back\ParticipantPanel\Business\bin\Debug\net6.0\Business.pdb
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\Business.dll
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\ref\Business.dll
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\Business.pdb
+D:\K205\Back\ParticipantPanel\Business\bin\Debug\net6.0\DataAccess.dll
+D:\K205\Back\ParticipantPanel\Business\bin\Debug\net6.0\Entities.dll
+D:\K205\Back\ParticipantPanel\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\K205\Back\ParticipantPanel\Business\bin\Debug\net6.0\Entities.pdb
+D:\K205\Back\ParticipantPanel\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
